@@ -3,7 +3,7 @@ const axios = require('axios');
 
 // توكن البوت الذي حصلت عليه
 const token = '7863026836:AAGd5x_PsOhetLX42MvhGN2WC8i9vs-dYUw';
-const newsApiKey = 'YOUR_NEWS_API_KEY_HERE'; // استبدل بمفتاح NewsAPI الخاص بك
+const newsApiKey = '2f46c703-08ec-40d7-9fa3-57121cebf34f'; // استبدل بمفتاح NewsAPI الخاص بك
 const bot = new TelegramBot(token, { polling: true });
 
 // رسالة الترحيب عند بدء التفاعل
